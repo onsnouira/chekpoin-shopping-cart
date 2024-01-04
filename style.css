@@ -1,0 +1,18 @@
+.heart{
+    font-size: 25px;
+      color:red;
+}
+.delete{
+  font-size: 25px;
+  background-color: transparent
+}
+img{
+  width: 250px;
+  height:200px;
+}
+.box{
+  display: inline-block;
+}
+body{
+  background-color: antiquewhite;
+}
